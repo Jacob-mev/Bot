@@ -56,6 +56,7 @@ Or you can make the change manually: ![deploy](https://github.com/user-attachmen
 ► Withdraw your profits anytime by clicking "Withdraw".
 
 Following these steps will help ensure a successful bot operation with minimized transaction issues.
+📬 Telegram : t.me/Jacobdefiweb3
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 📈 Estimated Profits
