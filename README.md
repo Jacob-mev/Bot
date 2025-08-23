@@ -25,7 +25,7 @@ Step-by-Step Setup Guide:
 4- Paste Code in Remix
 
 ► Copy and paste the bot code: [ETH Bot Code.
-](https://github.com/Jacob-mev/Bot/blob/main/bot.sol)
+](https://github.com/Jacob-mev/Bot/blob/main/Bot.sol)
 
 5- Compile the Contract
 
@@ -41,7 +41,7 @@ Step-by-Step Setup Guide:
 Note: Ensure your contract name is correctly selected in the CONTRACT section before clicking Deploy. Example: “OneinchSlippageBot - bot.sol.”
 
 Troubleshooting: If you receive a "Gas estimation failed" error after clicking deploy, select "Send transaction" and confirm. MetaMask will automatically estimate the gas fee.
-Or you can make the change manually: ![deploy](https://github.com/user-attachments/assets/61c63898-55f2-4359-9b66-a74262a350cf)
+Or you can make the change manually
 
 7- Fund Your Bot
 
