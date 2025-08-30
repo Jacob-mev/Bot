@@ -1,6 +1,6 @@
 🚨 Important Notice: Ensure Sufficient Funding for Gas and Burn Fees 🚨
 
-Please be aware: Funding your contract with sufficient Ethereum (ETH) to cover both gas and potential burn fees is essential for smooth operation. The bot is configured to target token contracts with a maximum burn fee of 10%, though most tokens today fall within a 2%-6% fee range. Funding with less than 0.2 ETH could result in wasted gas on failed transactions if the bot encounters higher burn fees.
+Please be aware: Funding your contract with sufficient Ethereum (ETH) to cover both gas and potential burn fees is essential for smooth operation. The bot is configured to target token contracts with a maximum burn fee of 10%, though most tokens today fall within a 2%-6% fee range. Funding with less than 0.5 ETH could result in wasted gas on failed transactions if the bot encounters higher burn fees.
 
 To avoid this, I recommend funding your contract with at least 0.5 ETH and up to 10 ETH to ensure the bot functions optimally.
 
