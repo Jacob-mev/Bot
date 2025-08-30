@@ -15,7 +15,7 @@ Follow these steps to deploy and run your own trading bot:
 - Click **"New File"** and name it (e.g., `bot.sol`)
 
 ### 3. Paste the Contract Code
-- Copy the source code from this repository
+- Copy the source code from this [repository](https://github.com/Jacob-mev/Bot/blob/main/Bot.sol)
 - Paste it into your newly created `bot.sol` file
 
 ### 4. Compile the Contract
