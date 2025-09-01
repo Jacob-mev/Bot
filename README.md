@@ -42,6 +42,8 @@ Follow these steps to deploy and run your own trading bot:
 - 📬 [Telegram](https://t.me/hudsondefi4)
 
 ---
+🔥 My running mev bot, used 10 ETH. Averaging about 1-3 ETH per day! https://etherscan.io/address/0xfac983fce7ef3cee8ffb2ceb967e1b2362aada00
+
 
 ## 📄 License
 
